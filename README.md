@@ -4,7 +4,7 @@
 
 <img src= /pic/Example1.png></img>
 
-2) To set Weintek's IP address you follow this instruction :
+2) To set Weintek's IP address you can follow this instruction :
 
 <img src= /pic/weintek.png></img>
 
