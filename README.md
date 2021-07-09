@@ -12,6 +12,6 @@
 	AMS Net ID of Weintek is : [IP Address] + [.1.1]
 	you can follow this instruction :
 
-<img src= /pic/Beckhoff1.png></img>
+<img src= /pic/Beckhoff1.PNG></img>
 
 <img src= /pic/Beckhoff2.png></img>
